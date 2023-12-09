@@ -1,1 +1,1 @@
-# Advent-of-Code-2023
+![Santa](Resources/santa.jpg)
